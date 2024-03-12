@@ -17,7 +17,7 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 ## Overview
 
 ### Links
-- Live Site URL:([https://your-live-site-url.com](https://alexcarnero.github.io/Recipe-page/))
+- Live Site URL:(https://alexcarnero.github.io/Recipe-page/)
 
 ## My process
 
